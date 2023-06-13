@@ -1,5 +1,8 @@
-# Meus Projetos!
-<h2>Alguns dos meus projetos</h2>
+# My Projects
+<h2>Meus projetos estão neste repositório</h2>
+
+<h3>Sobre mim:</h3>
+
  <div>
      
      Ryan Davi👦🏻

@@ -2,15 +2,9 @@
 <h2>Alguns dos meus projetos</h2>
  <div>
      
-     Ryan Davi👦🏻</br>
-     Programador👾</br>
-     13 anos😎</br>
-     Violonista e guitarrista🎸</br>
+     Ryan Davi👦🏻
+     Programador👾
+     13 anos😎
+     Violonista e guitarrista🎸
 
  </div>
-
-<style>
-    div {
-        font-size: 9pt;
-    }
-</style>
